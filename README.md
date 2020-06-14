@@ -17,5 +17,6 @@ Esse projeto faz parte de uma atividade avaliativa para a disciplina de Desenvol
 **Autores**
 
 [Rafael Levi Batista Costa](rafaellevissa@gmail.com)
+
 [Ielson Reis Dias](ielsondias1@gmail.com)
 
